@@ -23,7 +23,7 @@
   </ul>
   
   <li>Your score and the computer's score are displayed on the screen.</li>
-  <li>Click the Reset button to reset the game and scores.</li><br>
+  <li>Click the Reset button to reset the game and scores.</li>
   </ol></p>
 
 <h2>Installation</h2>
@@ -34,7 +34,7 @@ git clone https://github.com/yourusername/rock-paper-scissors.git
 <li>Navigate to the project directory:</li>
 cd rock-paper-scissors
 <br>
-<li>Open the index.html file in your browser to play the game locally.</li><br>
+<li>Open the index.html file in your browser to play the game locally.</li>
 </ol></p>
 
 <h2>How It Works</h2>
@@ -46,7 +46,7 @@ cd rock-paper-scissors
 <li>Score Update: The scores are updated and displayed after each round.</li>
 <li>Reset: The game can be reset, and the scores will be set to zero.</li>
   </ul>
-</p><br>
+</p>
 <h2>JavaScript Logic</h2>
 <ol>
 <p>  <li>Determine Winner: Based on the selected choices, the winner is determined using conditionals.</li>
