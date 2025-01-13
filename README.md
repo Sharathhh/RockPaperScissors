@@ -9,7 +9,7 @@
 <li>Animations: Reset button rotates with a smooth animation when clicked.<ul>
   </ul>
 </p>
-
+<br>
 <h2>How to Play</h2>
 <p>
 <ol>
