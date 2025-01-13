@@ -13,9 +13,9 @@
 <h2>How to Play</h2>
 <p>
 <ol>
-  <li>Select your choice by clicking on Rock, Paper, or Scissors.</li><br>
-  <li>The computer will randomly pick one of the three options.</li><br>
-  <li>The game will determine the winner based on the following rules:</li><br>
+  <li>Select your choice by clicking on Rock, Paper, or Scissors.</li>
+  <li>The computer will randomly pick one of the three options.</li>
+  <li>The game will determine the winner based on the following rules:</li>
   <ul>
      <li>Rock beats Scissors</li><br>
      <li>Scissors beats Paper</li><br>
@@ -40,8 +40,8 @@ cd rock-paper-scissors
 <h2>How It Works</h2>
 <p>
   <ul>
-  <li>User Choice: The player clicks on one of the three available choices: Rock, Paper, or Scissors.</li><br>
-  <li>Computer Choice: The computer randomly selects one of the three options.</li><br>
+  <li>User Choice: The player clicks on one of the three available choices: Rock, Paper, or Scissors.</li>
+  <li>Computer Choice: The computer randomly selects one of the three options.</li>
   <li>Result Calculation: The winner is determined by comparing the user's and computer's choices.</li>
 <li>Score Update: The scores are updated and displayed after each round.</li>
 <li>Reset: The game can be reset, and the scores will be set to zero.</li>
