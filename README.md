@@ -10,7 +10,7 @@
   </ul>
 </p>
 
-<h2>How to Play</h2><br>
+<h2>How to Play</h2><
 <p>
 <ol>
   <li>Select your choice by clicking on Rock, Paper, or Scissors.</li><br>
@@ -49,9 +49,8 @@ cd rock-paper-scissors
 </p><br>
 <h2>JavaScript Logic</h2<br>
 <ol>
-  <li>Generate Computer's Choice: A random choice is made by the computer using Math.random().</li>
-  <li>Determine Winner: Based on the selected choices, the winner is determined using conditionals.</li>
+<p>  <li>Determine Winner: Based on the selected choices, the winner is determined using conditionals.</li>
   <li>Update UI: The score, result message, and animations are updated dynamically.</li>
 </ol>
-
+</p>
 
