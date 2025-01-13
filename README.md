@@ -1,7 +1,7 @@
 <h1>Rock Paper Scissors Game</h1><br>
 <p>A simple Rock Paper Scissors game implemented using HTML, CSS, and JavaScript. The game allows you to play against the computer with score tracking, interactive animations, and a reset functionality.</p>
 
-<h2>Features</h2><br>
+<h2>Features</h2>
 <p><ul>
 <li>Play against the Computer: Choose Rock, Paper, or Scissors and compete against the computer.</li>
 <li>Scoreboard: Tracks and displays scores for both the user and the computer.</li>
@@ -10,7 +10,7 @@
   </ul>
 </p>
 
-<h2>How to Play</h2><
+<h2>How to Play</h2>
 <p>
 <ol>
   <li>Select your choice by clicking on Rock, Paper, or Scissors.</li><br>
@@ -26,7 +26,7 @@
   <li>Click the Reset button to reset the game and scores.</li><br>
   </ol></p>
 
-<h2>Installation</h2><br>
+<h2>Installation</h2>
 <p><ol>
 <li>Clone this repository to your local machine: </li><br>
 git clone https://github.com/yourusername/rock-paper-scissors.git<br>
