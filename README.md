@@ -17,12 +17,12 @@
   <li>The computer will randomly pick one of the three options.</li>
   <li>The game will determine the winner based on the following rules:</li>
   <ul>
-     <li>Rock beats Scissors</li><br>
-     <li>Scissors beats Paper</li><br>
-     <li>Paper beats Rock</li><br>
+     <li>Rock beats Scissors</li>
+     <li>Scissors beats Paper</li>
+     <li>Paper beats Rock</li>
   </ul>
   
-  <li>Your score and the computer's score are displayed on the screen.</li><br>
+  <li>Your score and the computer's score are displayed on the screen.</li>
   <li>Click the Reset button to reset the game and scores.</li><br>
   </ol></p>
 
@@ -30,7 +30,7 @@
 <p><ol>
 <li>Clone this repository to your local machine: </li>
 git clone https://github.com/yourusername/rock-paper-scissors.git
-
+<br>
 <li>Navigate to the project directory:</li>
 cd rock-paper-scissors
 <br>
@@ -47,7 +47,7 @@ cd rock-paper-scissors
 <li>Reset: The game can be reset, and the scores will be set to zero.</li>
   </ul>
 </p><br>
-<h2>JavaScript Logic</h2<br>
+<h2>JavaScript Logic</h2>
 <ol>
 <p>  <li>Determine Winner: Based on the selected choices, the winner is determined using conditionals.</li>
   <li>Update UI: The score, result message, and animations are updated dynamically.</li>
