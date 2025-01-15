@@ -28,9 +28,11 @@
 <h2>Installation</h2>
 <p><ol>
 <li>Clone this repository to your local machine: </li>
+   ```bash
 git clone https://github.com/yourusername/rock-paper-scissors.git
 <br>
 <li>Navigate to the project directory:</li>
+  ```bash
 cd rock-paper-scissors
 <br>
 <li>Open the index.html file in your browser to play the game locally.</li>
